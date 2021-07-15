@@ -1,0 +1,16 @@
+D:\project\OOP First app\Finals\ECB_APP\ECB_APP\bin\Debug\ECB_APP.exe.config
+D:\project\OOP First app\Finals\ECB_APP\ECB_APP\bin\Debug\ECB_APP.exe
+D:\project\OOP First app\Finals\ECB_APP\ECB_APP\bin\Debug\ECB_APP.pdb
+D:\project\OOP First app\Finals\ECB_APP\ECB_APP\obj\Debug\ECB_APP.csprojResolveAssemblyReference.cache
+D:\project\OOP First app\Finals\ECB_APP\ECB_APP\obj\Debug\ECB_APP.Dashboard.resources
+D:\project\OOP First app\Finals\ECB_APP\ECB_APP\obj\Debug\ECB_APP.Properties.Resources.resources
+D:\project\OOP First app\Finals\ECB_APP\ECB_APP\obj\Debug\ECB_APP.csproj.GenerateResource.Cache
+D:\project\OOP First app\Finals\ECB_APP\ECB_APP\obj\Debug\ECB_APP.exe
+D:\project\OOP First app\Finals\ECB_APP\ECB_APP\obj\Debug\ECB_APP.pdb
+D:\project\OOP First app\Finals\ECB_APP\ECB_APP\obj\Debug\ECB_APP.frm_industrial_I_1.resources
+D:\project\OOP First app\Finals\ECB_APP\ECB_APP\obj\Debug\ECB_APP.frm_general_GP_1.resources
+D:\project\OOP First app\Finals\ECB_APP\ECB_APP\obj\Debug\ECB_APP.frm_domestic_Billrate.resources
+D:\project\OOP First app\Finals\ECB_APP\ECB_APP\obj\Debug\ECB_APP.frm_domestic_Cal.resources
+D:\project\OOP First app\Finals\ECB_APP\ECB_APP\obj\Debug\ECB_APP.frm_government_GV_1.resources
+D:\project\OOP First app\Finals\ECB_APP\ECB_APP\obj\Debug\ECB_APP.frm_hotel_H_1.resources
+D:\project\OOP First app\Finals\ECB_APP\ECB_APP\obj\Debug\ECB_APP.frm_religious_R_1.resources
